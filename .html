@@ -1,0 +1,9 @@
+<h1 style="font-family:'Courier New'"> Harry Ponder </h1>
+<p style="font-family:'Courier New'"> Harry Ponder is the greatest wizard to ever live in duckland. He can turn any thing into a duck and a duck of his choice.
+After Hogwarts shutdown in 2020 Harry Ponder decided to use his powers otherwise, as a programmer. Where he will dominate the
+coding world and control all of the Bronxville School technology </p>
+<img src=https://images.esellerpro.com/2243/I/370/74/BATH205-harry-potter-rubber-duck%20(4).JPG width="500" height="600">
+<a href = https://en.wikipedia.org/wiki/Rubber_duck> Rubber duck</a>
+
+
+<button type="button">Hello Ms.Kim</button>
